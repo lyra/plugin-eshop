@@ -1,6 +1,6 @@
 # PayZen for eShop
 
-PayZen for eShop is an open source plugin that links WordPress eShop based e-commerce websites to PayZen secured payment gateway developped by [Lyra Network](https://www.lyra-network.com/).
+PayZen for eShop is an open source plugin that links e-commerce websites based on WordPress eShop to PayZen secured payment gateway developped by [Lyra Network](https://www.lyra-network.com/).
 
 We will put the plugin source code in this repository shortly.
 
