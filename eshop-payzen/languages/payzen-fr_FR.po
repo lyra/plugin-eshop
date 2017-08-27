@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eShop PayZen Payment Module 1.0b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-16 14:13-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lyra Network\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: eshop-payzen.php:24
+#, php-format
+msgid "Sorry! In order to use eShop %s Gateway plugin you need to install and activate the eShop plugin."
+msgstr "Désolé! Pour utiliser le plugin %s pour eShop, vous devez installer et activer le plugin eShop."
+
+#: eshop-payzen.php:32
+msgid "Settings"
+msgstr "Réglages"
+
+#: eshop-payzen.php:76
+#, php-format
+msgid "Accept payments by %s"
+msgstr "Paiements par %s acceptés"
+
+#: eshop-payzen.php:84
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: eshop-payzen.php:85
+#, php-format
+msgid "Click here to reset %s module configuration"
+msgstr "Cliquer ici pour réinitialiser la configuration du module %s"
+
+#: eshop-payzen.php:90
+msgid "Module informations"
+msgstr "Informations sur le module"
+
+#: eshop-payzen.php:93
+msgid "Developped by"
+msgstr "Développé par"
+
+#: eshop-payzen.php:94
+msgid "Contact email"
+msgstr "Courriel de contact"
+
+#: eshop-payzen.php:95
+msgid "Module version"
+msgstr "Version du module"
+
+#: eshop-payzen.php:96
+msgid "Gateway version"
+msgstr "Version de la plateforme"
+
+#: eshop-payzen.php:97
+msgid "Tested with"
+msgstr "Testé avec"
+
+#: eshop-payzen.php:101
+msgid "Payment gateway access"
+msgstr "Accès à la plateforme"
+
+#: eshop-payzen.php:104
+msgid "Site ID"
+msgstr "Identifiant du site"
+
+#: eshop-payzen.php:106
+msgid "Site ID provided by the payment gateway"
+msgstr "L'identifiant du site fourni par votre banque"
+
+#: eshop-payzen.php:108
+msgid "Test certificate"
+msgstr "Certificat en mode test"
+
+#: eshop-payzen.php:110
+#: eshop-payzen.php:114
+msgid "Certificate provided by the gateway"
+msgstr "Certificat fourni par votre banque pour test"
+
+#: eshop-payzen.php:112
+msgid "Production certificate"
+msgstr "Certificat en mode production"
+
+#: eshop-payzen.php:116
+msgid "Mode"
+msgstr "Mode"
+
+#: eshop-payzen.php:121
+msgid "The module context mode"
+msgstr "Mode de fonctionnement du module"
+
+#: eshop-payzen.php:123
+msgid "Gateway URL"
+msgstr "URL de la plateforme"
+
+#: eshop-payzen.php:125
+msgid "URL the client will be redirected to for payment"
+msgstr "URL vers laquelle le client sera redirigé pour le paiement"
+
+#: eshop-payzen.php:127
+msgid "Debugging"
+msgstr "Débogage"
+
+#: eshop-payzen.php:129
+#: eshop-payzen.php:223
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: eshop-payzen.php:130
+#: eshop-payzen.php:224
+msgid "Enabled"
+msgstr "Activé"
+
+#: eshop-payzen.php:132
+msgid "Activate debug and logging"
+msgstr "Activer le débogage et les logs dans un fichier"
+
+#: eshop-payzen.php:136
+msgid "Payment page"
+msgstr "Page de paiement"
+
+#: eshop-payzen.php:139
+msgid "Default language"
+msgstr "Langage par défaut"
+
+#: eshop-payzen.php:141
+#: eshop-payzen.php:156
+msgid "Chinese"
+msgstr "Chinois"
+
+#: eshop-payzen.php:142
+#: eshop-payzen.php:157
+msgid "English"
+msgstr "Anglais"
+
+#: eshop-payzen.php:143
+#: eshop-payzen.php:158
+msgid "French"
+msgstr "Français"
+
+#: eshop-payzen.php:144
+#: eshop-payzen.php:159
+msgid "German"
+msgstr "Allemand"
+
+#: eshop-payzen.php:145
+#: eshop-payzen.php:160
+msgid "Italian"
+msgstr "Italien"
+
+#: eshop-payzen.php:146
+#: eshop-payzen.php:161
+msgid "Japanese"
+msgstr "Japonnais"
+
+#: eshop-payzen.php:147
+#: eshop-payzen.php:162
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: eshop-payzen.php:148
+#: eshop-payzen.php:163
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: eshop-payzen.php:149
+#: eshop-payzen.php:164
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: eshop-payzen.php:150
+#: eshop-payzen.php:165
+msgid "Swedish"
+msgstr "Suédois"
+
+#: eshop-payzen.php:152
+msgid "Default language on the payment page"
+msgstr "Sélectionner le langage par défaut à utiliser sur la page de paiement"
+
+#: eshop-payzen.php:154
+msgid "Available languages"
+msgstr "Langues disponibles"
+
+#: eshop-payzen.php:167
+msgid "Available languages on payment page, select none to use gateway config"
+msgstr "Langues disponibles sur la page de paiement, ne rien sélectionner pour utiliser la configuration de la plateforme"
+
+#: eshop-payzen.php:169
+msgid "Shop name"
+msgstr "Nom de la boutique"
+
+#: eshop-payzen.php:171
+msgid "Shop name to display on the payment page, leave blank to use gateway config"
+msgstr "Le nom de la boutique à afficher sur la page de paiement, laisser vide pour utilise la configuration de la plateforme"
+
+#: eshop-payzen.php:173
+msgid "Shop URL"
+msgstr "URL de la boutique"
+
+#: eshop-payzen.php:175
+msgid "Shop URL to display on the payment page, leave blank to use gateway config"
+msgstr "URL de la boutique à afficher sur la page de paiement, laisser vide pour utilise la configuration de la plateforme"
+
+#: eshop-payzen.php:177
+msgid "Delay"
+msgstr "Délai avant remise en banque"
+
+#: eshop-payzen.php:179
+msgid "Delay before banking (in days)"
+msgstr "Le nombre de jours avant la remise en banque"
+
+#: eshop-payzen.php:181
+msgid "Validation mode"
+msgstr "Mode de validation"
+
+#: eshop-payzen.php:183
+msgid "Default"
+msgstr "Par défaut"
+
+#: eshop-payzen.php:184
+msgid "Automatic"
+msgstr "Automatique"
+
+#: eshop-payzen.php:185
+msgid "Manual"
+msgstr "Manuel"
+
+#: eshop-payzen.php:187
+msgid "If manual is selected, you will have to confirm payments manually in your bank backoffice"
+msgstr "En mode manuel, vous devrez confirmer les paiements dans l'outil de gestion de caisse"
+
+#: eshop-payzen.php:189
+msgid "Available payment cards"
+msgstr "Types de carte disponibles"
+
+#: eshop-payzen.php:199
+msgid "Select none to use gateway config"
+msgstr "Ne rien sélectionner pour utiliser la configuration de la plateforme"
+
+#: eshop-payzen.php:201
+msgid "Minimum amount for which activate 3DS"
+msgstr "Montant minimum pour activer le 3DS"
+
+#: eshop-payzen.php:203
+msgid "Only if you have subscribed to Selective 3-D Secure option"
+msgstr "Seulement si vous avez souscrit à l'option 3-D Secure sélectif"
+
+#: eshop-payzen.php:207
+msgid "Amount restrictions"
+msgstr "Restrictions sur le montant"
+
+#: eshop-payzen.php:210
+msgid "Minimum amount"
+msgstr "Montant minimum"
+
+#: eshop-payzen.php:213
+msgid "Maximum amount"
+msgstr "Montant maximum"
+
+#: eshop-payzen.php:218
+msgid "Return to shop"
+msgstr "Retour à la boutique"
+
+#: eshop-payzen.php:221
+msgid "Automatic redirection"
+msgstr "Redirection automatique"
+
+#: eshop-payzen.php:226
+msgid "If enabled, the client is automatically forwarded to your site at the end of the payment process"
+msgstr "Si activée, le client sera redirigé automatiquement vers votre site à la fin du processus de paiement"
+
+#: eshop-payzen.php:228
+msgid "Success forward timeout"
+msgstr "Temps avant redirection (succès)"
+
+#: eshop-payzen.php:230
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment was successful"
+msgstr "Temps en secondes (0-300) avant que le client ne soit redirigé automatiquement vers votre site lorsque le paiement a réussi"
+
+#: eshop-payzen.php:232
+msgid "Success forward message"
+msgstr "Message avant redirection (succès)"
+
+#: eshop-payzen.php:234
+msgid "Message posted on the payment platform before forwarding when the payment was successful"
+msgstr "Message affiché sur la plateforme de paiement avant redirection lorsque le paiement a réussi"
+
+#: eshop-payzen.php:236
+msgid "Failure forward timeout"
+msgstr "Temps avant redirection (échec)"
+
+#: eshop-payzen.php:238
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment failed"
+msgstr "Temps en secondes (0-300) avant que le client ne soit redirigé automatiquement vers votre site lorsque le paiement a échoué"
+
+#: eshop-payzen.php:240
+msgid "Failure forward message"
+msgstr "Message avant redirection (échec)"
+
+#: eshop-payzen.php:242
+msgid "Message posted on the payment platform before forwarding when the payment failed"
+msgstr "Temps en secondes (0-300) avant que le client ne soit redirigé automatiquement vers votre site lorsque le paiement a échoué"
+
+#: eshop-payzen.php:244
+msgid "Return mode"
+msgstr "Mode de retour"
+
+#: eshop-payzen.php:249
+msgid "How the client will transmit the payment result"
+msgstr "Façon dont le client transmettra le résultat du paiement lors de son retour sur la boutique"
+
+#: eshop-payzen.php:251
+msgid "Check URL"
+msgstr "URL serveur"
+
+#: eshop-payzen.php:252
+msgid "Important, copy in your bank backoffice the following URL"
+msgstr "Important, copier dans l'outil de gestion de caisse l'URL suivante"
+
+#: eshop-payzen.php:364
+msgid "<u>GOING INTO PRODUCTION</u><br />You want to know how to put your shop into production mode, please go to this URL : "
+msgstr "<u>PASSAGE EN PRODUCTION</u><br/>Vous souhaitez savoir comment passer votre boutique en production merci de consulter cette URL : "
+
+#: eshop-payzen.php:371
+#, php-format
+msgid "The automatic notification (peer to peer connection between the payment platform and your shopping cart solution) hasn't worked. Have you correctly set up the server URL in your %s backoffice ?"
+msgstr "La validation automatique n'a pas fonctionné. Avez-vous configuré correctement l'URL serveur dans l'outil de gestion de caisse %s ?"
+
+#: eshop-payzen.php:373
+msgid "For understanding the problem, please read the documentation of the module : <br />&nbsp;&nbsp;&nbsp;- Chapter &laquo;To read carefully before going further&raquo;<br />&nbsp;&nbsp;&nbsp;- Chapter &laquo;Server URL settings&raquo;"
+msgstr "Afin de comprendre la problématique, reportez vous à la documentation du module : <br />&nbsp;&nbsp;&nbsp;- Chapitre &laquo;A lire attentivement avant d'aller loin&raquo;<br />&nbsp;&nbsp;&nbsp;- Chapitre &laquo;Paramétrage de l'URL serveur&raquo;"
+
+#: eshop-payzen.php:380
+msgid "The payment was successful"
+msgstr "Le paiement a réussi"
+
+#: eshop-payzen.php:381
+msgid "Your order payment has been succesfully received."
+msgstr "Le paiement de votre commande s'est effectué avec succès."
+
+#: eshop-payzen.php:382
+#, php-format
+msgid "Your transaction ID is %s."
+msgstr "Votre identifiant de transaction est %s."
+
+#: eshop-payzen.php:399
+msgid "View your downloads"
+msgstr "Afficher vos téléchargements"
+
+#: eshop-payzen.php:406
+msgid "The payment failed."
+msgstr "Le paiement a échoué."
+
+#: eshop-payzen.php:408
+msgid "Your order payment has not been accepted."
+msgstr "Le paiement de votre commande n'a pas été accepté."
+
+#: eshop-payzen.php:411
+msgid "An error has occured during the payment process."
+msgstr "Une erreur est survenue durant le processus de paiement."
+
+#: eshop-payzen.php:413
+msgid "Please try to checkout your order again."
+msgstr "Essayer de repasser votre commande."
+
+#: eshop-payzen.php:414
+msgid "We have not emptied your shopping cart in case you want to make changes."
+msgstr "Nous n'avons pas vidé votre panier au cas où vous voudriez faire des modifications."
+
+#: includes/payzen.class.php:81
+#, php-format
+msgid "<strong>Note:</strong> Submit to finalize order at %s."
+msgstr "<strong>Note:</strong> Valider pour finaliser la commande chez %s."
+
+#: includes/payzen.class.php:82
+msgid "Proceed to Checkout &raquo;"
+msgstr "Passer au paiement &raquo;"
+
+#: includes/payzen.class.php:99
+msgid "Please wait, your order is being processed&#8230;"
+msgstr "Veuillez patienter, votre commande est en cours de traitement&#8230;"
+
+#: includes/payzen.class.php:100
+#, php-format
+msgid "If you are not automatically redirected to %s, please use the <em>Proceed to %s</em> button."
+msgstr "Si vous n'êtes redirigé(e) automatiquement vers %s, veuillez utiliser le bouton <em>Procéder avec %s</em>"
+
+#: includes/payzen.class.php:107
+#, php-format
+msgid "Proceed to %s"
+msgstr "Procéder avec %s"
+
+#: includes/payzen.php:14
+msgid "There appears to have been an error, please contact the site admin"
+msgstr "Il parait qu'il y a une erreur de configuration, veuillez contacter l'administrateur du site"
+
+#: includes/payzen.php:90
+msgid "This payment method is not allowed for your cart amount. Please select an other payment method."
+msgstr "Cette méthode de paiement n'est pas permise pour le montant de votre panier. Veuillez sélectionner une autre méthode de paiement."
+
+#: includes/payzen.php:216
+#, php-format
+msgid "%s response authentication failure."
+msgstr "Échec de l'authentification de la réponse %s"
+
+#: includes/payzen.php:242
+#, php-format
+msgid "Error : order with id #%s cannot be found."
+msgstr "Erreur: une commande avec l'identifiant #%s est introuvable."
+
+#: includes/payzen.php:252
+msgid "Testing: "
+msgstr "Test:"
+
+#: includes/payzen.php:255
+msgid "An instant payment notification was received"
+msgstr "Une notification de paiement instantanée a été reçue"
+
+#: includes/payzen.php:256
+msgid "for "
+msgstr "pour"
+
+#: includes/payzen.php:256
+msgid " from "
+msgstr "de"
+
+#: includes/payzen.php:256
+msgid " on "
+msgstr "le"
+
+#: includes/payzen.php:257
+msgid " at "
+msgstr "à"
+
+#: includes/payzen.php:257
+msgid "Details"
+msgstr "Détails"
+
+#: includes/payzen.php:264
+msgid "Completed Payment"
+msgstr "Paiement effectué"
+
+#: includes/payzen.php:265
+msgid "The transaction was completed successfully."
+msgstr "La transaction s'est effectuée avec succès."
+
+#: includes/payzen.php:267
+msgid "Failed Payment"
+msgstr "Échec de paiement"
+
+#: includes/payzen.php:268
+msgid "The transaction was not completed successfully."
+msgstr "Une erreur s'est produite dans la transaction."
+
+#: includes/payzen.php:272
+msgid "Regards, Your friendly automated response."
+msgstr "Cordialement, Votre réponse automatique"
+
+#: includes/payzen.php:356
+#, php-format
+msgid "Error : invalid payment code received for already processed order (%s)."
+msgstr "Erreur: code de paiement invalide reçu pour une commande (%s) déjà enregistrée."
